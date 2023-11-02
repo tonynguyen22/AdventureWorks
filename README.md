@@ -45,16 +45,16 @@ The AdventureWorks Business Intelligence and Data Visualization Project provides
 
 Here are some snapshots of the project dashboard:
 
-# Executive Dashboard
+## Executive Dashboard
 ![image](https://github.com/tonynguyen22/AdventureWorks/assets/69407233/6c9f0e1b-d69c-40a0-881f-b914b3cdae05)
 
-# Map
+## Map
 ![image](https://github.com/tonynguyen22/AdventureWorks/assets/69407233/0b723780-9480-4f23-a73c-19beb16dc9e1)
 
-# Product Detail
+## Product Detail
 ![image](https://github.com/tonynguyen22/AdventureWorks/assets/69407233/d700e060-7556-4bab-ac10-67b9c29045ee)
 
-# Customer Detail
+## Customer Detail
 ![image](https://github.com/tonynguyen22/AdventureWorks/assets/69407233/b82a642c-f757-40ac-837e-c59f6602dbb1)
 
 
