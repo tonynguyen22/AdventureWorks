@@ -1,11 +1,11 @@
-# MavenMarket Business Intelligence and Data Visualization Project
+# AdventureWorks Business Intelligence and Data Visualization Project
 
-![MavenMarket Logo](link_to_logo.png) *Insert your MavenMarket logo here.*
+![AdventureWorks_Logo](https://github.com/tonynguyen22/AdventureWorks/assets/69407233/9e070ccf-8e33-4f52-beba-a8148d5a08a8)
 
 Welcome to the AdventureWorks Business Intelligence and Data Visualization Project. This project showcases my expertise in data analytics, data modeling, and data visualization using Power BI.
 
 ## Project Overview
-![AdventureWorks_Logo](https://github.com/tonynguyen22/AdventureWorks/assets/69407233/9e070ccf-8e33-4f52-beba-a8148d5a08a8)
+
 
 In this project, I have demonstrated my ability to work with complex datasets and create a powerful data model that provides valuable insights into AdventureWorks's business operations. The project encompasses the following key components:
 
