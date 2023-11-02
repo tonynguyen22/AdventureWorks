@@ -40,6 +40,23 @@ The AdventureWorks Business Intelligence and Data Visualization Project provides
 - Calculated columns and measures creation
 - Interactive reporting using bookmarks and notes
 - Creative problem-solving and insights discovery
+  
+## Dashboard Images
+
+Here are some snapshots of the project dashboard:
+
+# Executive Dashboard
+![image](https://github.com/tonynguyen22/AdventureWorks/assets/69407233/6c9f0e1b-d69c-40a0-881f-b914b3cdae05)
+
+# Map
+![image](https://github.com/tonynguyen22/AdventureWorks/assets/69407233/0b723780-9480-4f23-a73c-19beb16dc9e1)
+
+# Product Detail
+![image](https://github.com/tonynguyen22/AdventureWorks/assets/69407233/d700e060-7556-4bab-ac10-67b9c29045ee)
+
+# Customer Detail
+![image](https://github.com/tonynguyen22/AdventureWorks/assets/69407233/b82a642c-f757-40ac-837e-c59f6602dbb1)
+
 
 The AdventureWorks Business Intelligence and Data Visualization Project stands as a testament to my expertise in harnessing data to drive informed business decisions. It showcases my dedication to delivering high-quality, impactful solutions.
 
