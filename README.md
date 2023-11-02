@@ -1,4 +1,4 @@
-# AdventureWorks Business Intelligence and Data Visualization Project
+# AdventureWorks Business Intelligence and Data Visualization Project (Power BI)
 
 <img src="https://github.com/tonynguyen22/AdventureWorks/assets/69407233/9e070ccf-8e33-4f52-beba-a8148d5a08a8" width=50% height=50%>
 
