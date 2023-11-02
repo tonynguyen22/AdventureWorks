@@ -1,6 +1,7 @@
 # AdventureWorks Business Intelligence and Data Visualization Project
 
 <img src="[https://i.imgur.com/ZWnhY9T.png](https://github.com/tonynguyen22/AdventureWorks/assets/69407233/9e070ccf-8e33-4f52-beba-a8148d5a08a8)" width=50% height=50%>
+
 ![AdventureWorks_Logo](https://github.com/tonynguyen22/AdventureWorks/assets/69407233/9e070ccf-8e33-4f52-beba-a8148d5a08a8)
 
 Welcome to the AdventureWorks Business Intelligence and Data Visualization Project. This project showcases my expertise in data analytics, data modeling, and data visualization using Power BI.
